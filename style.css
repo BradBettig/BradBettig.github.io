@@ -1,0 +1,48 @@
+/*title*/
+h1{
+    color:rgb(23, 0, 126);
+}
+
+h2{
+    color:rgb(23, 0, 126);
+    border-bottom: 1px solid;
+    margin-top: 1.2em;
+}
+
+#pic{
+    width:50%
+}
+
+#info{
+    line-height: 1.5em;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(21,21,161);
+}
+
+a:hover{
+    color:brown;
+}
+
+/*set page background color*/
+body{
+    background-color:rgb(236, 226, 214);
+    padding-left: 120px;
+    padding-right: 8px;
+}
+
+.sidebar{
+    position: fixed;
+    top:0;
+    left:0;
+
+    width: 100px;
+    height: 100%;
+    background-color:rgb(103, 197, 214);
+    padding-top: 20px;
+    padding-left: 15px;
+    line-height: 1.85em;
+    font-size: 1.1em;
+}
